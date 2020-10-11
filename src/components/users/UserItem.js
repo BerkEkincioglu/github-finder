@@ -18,4 +18,4 @@ UserItem.propTypes = {
     user: PropTypes.object.isRequired
 }
 
-export default UserItem
+export default UserItem;
